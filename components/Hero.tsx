@@ -22,7 +22,7 @@ const Hero = () => {
               Dynamic Web Magic With Next.js
             </h2>
 
-            <TextGenerateEffect className="text-center text-[40px] md:text-5xl lg:text-6xl" words="Wai Yan Kyaw Lin is Everything" />
+            <TextGenerateEffect className="text-center text-[40px] md:text-5xl lg:text-6xl" words="Amazing Website is coming" />
 
             <p className='text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl'>
               Hi, I'm Wai Yan Kyaw Lin, a Frontend Developer
